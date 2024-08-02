@@ -96,7 +96,8 @@ Since this project uses a MySQL database, we must import the datasets from the d
 - Data modelling is important and is regarded as the report's foundation. The data model will serve as the foundation for every graphic.
 - Report performance is impacted overall by poor data modelling.
 It is imperative to adhere to best practices for data modelling. Check out this website to learn about the best practices. [Weblog](https://addendanalytics.com/blog/data-modelling-best-practices/)
-<img src="C:\Users\NEERAJ\Pictures\Screenshots/Data_model.png" class="center">
+
+[Data Model](https://github.com/Niraj-Mittapelly/Buisness-Insights-360/wiki)
 
 ## Project Outcome
 

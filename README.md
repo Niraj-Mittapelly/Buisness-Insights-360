@@ -4,7 +4,7 @@
 
 Due to their recent quick growth, AtliQ Hardware has made the choice to use PowerBi for the first time in their business to facilitate data-driven decision-making and help them outperform their competition in the market. With regard to finance, sales, marketing, and supply chain, it is envisaged that this project would provide answers to stakeholder enquiries.
 
-[Live Report Link](https://app.powerbi.com/groups/me/reports/c528d9ad-1cb6-4e38-bba2-cf44b074e576/336ec9b7bde61f1166b5?experience=power-bi&bookmarkGuid=681912862b31f8e96d4a)
+[Live Report Link](https://app.powerbi.com/groups/me/reports/c528d9ad-1cb6-4e38-bba2-cf44b074e576/86242acc6d54121e8f34?experience=power-bi&bookmarkGuid=50a6536e4c694036c119)
 
 ## 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀
 
@@ -97,7 +97,7 @@ Since this project uses a MySQL database, we must import the datasets from the d
 - Report performance is impacted overall by poor data modelling.
 It is imperative to adhere to best practices for data modelling. Check out this website to learn about the best practices. [Weblog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 
-[Data Model](https://github.com/Niraj-Mittapelly/Buisness-Insights-360/wiki)
+[Data Model](https://github.com/Niraj-Mittapelly/Buisness-Insights-360/blob/main/Data%20Model.png)
 
 ## Project Outcome
 

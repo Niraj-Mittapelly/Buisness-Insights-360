@@ -85,8 +85,6 @@ The company AltiQ Hardware has expanded significantly in recent years and has op
 
 The company recently suffered an unanticipated loss when it opened a store in America. This decision was made based on surveys, gut feeling, and some Excel analysis. Additionally, the company's competitors have a small number of analytics teams who do analysis and make data-driven decisions. Thus, AltiQ Hardware's only remaining choice to improve its industry survival is to expand its analytics staff in order to make data-driven decisions and insights in the future. 
 
-At the project kickoff meeting, you should clarify the purpose and nature of the project as well as any other queries you may have.
-
 ## Data importing into PowerBi
 
 Since this project uses a MySQL database, we must import the datasets from the database into PowerBi by entering the database access credentials.
